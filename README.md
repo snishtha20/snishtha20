@@ -31,5 +31,3 @@ An enthusiastic **B.Tech Computer Science student** passionate about **Data Scie
 
 
 ---
-
-*“Turning raw datasets into meaningful financial and business insights, one pipeline at a time.”*
