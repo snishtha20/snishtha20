@@ -13,17 +13,23 @@ An enthusiastic **B.Tech Computer Science student** passionate about **Data Scie
 
 
 
+---
+
 ### 🏅 GSSoC '26 Open Source Milestones
 <p align="left">
-  <img src="ambassador.png" width="95" title="GSSoC 2026 Ambassador" alt="Ambassador" style="margin-right: 10px;"/>
-  <img src="contributor.png" width="95" title="GSSoC 2026 Contributor" alt="Contributor" style="margin-right: 10px;"/>
-  <img src="gssoc-badge_first_steps.png" width="95" title="GSSoC 2026 First Steps" alt="First Steps" style="margin-right: 10px;"/>
+  <img src="ambassador.png" width="85" title="GSSoC 2026 Ambassador" alt="Ambassador" style="margin-right: 8px;"/>
+  <img src="contributor.png" width="85" title="GSSoC 2026 Contributor" alt="Contributor" style="margin-right: 8px;"/>
+  <img src="gssoc-badge_first_steps.png" width="85" title="GSSoC 2026 First Steps" alt="First Steps" style="margin-right: 8px;"/>
+  <img src="gssoc-badge_point_scorer.png" width="85" title="GSSoC 2026 Point Scorer" alt="Point Scorer" style="margin-right: 8px;"/>
+  <img src="gssoc-badge_bounty_hunter.png" width="85" title="GSSoC 2026 Bounty Hunter" alt="Bounty Hunter" style="margin-right: 8px;"/>
+  <img src="gssoc-badge-profile_complete.png" width="85" title="GSSoC 2026 Profile Complete" alt="Profile Complete" style="margin-right: 8px;"/>
+  <img src="gssoc-badge-discord_verified.png" width="85" title="GSSoC 2026 Discord Verified" alt="Discord Verified" style="margin-right: 8px;"/>
 </p>
 
 ---
 
 ---
 
+---
+
 *“Turning raw datasets into meaningful financial and business insights, one pipeline at a time.”*
-### My Open Source Milestones (GSSoC '26)
-<img src="C:\Users\snish\Downloads\ambassador.png" width="100"/> <img src="path_to_your_downloaded_badge2.png" width="100"/><img src="path_to_your_downloaded_badge1.png" width="100"/> <img src="path_to_your_downloaded_badge2.png" width="100"/><img src="path_to_your_downloaded_badge1.png" width="100"/> <img src="path_to_your_downloaded_badge2.png" width="100"/><img src="path_to_your_downloaded_badge1.png" width="100"/> 
