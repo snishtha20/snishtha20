@@ -11,10 +11,6 @@ An enthusiastic **B.Tech Computer Science student** passionate about **Data Scie
 
 ---
 
-
-
----
-
 ### 🏅 GSSoC '26 Open Source Milestones
 <p align="left">
   <img src="ambassador.png" width="85" title="GSSoC 2026 Ambassador" alt="Ambassador" style="margin-right: 8px;"/>
@@ -28,7 +24,11 @@ An enthusiastic **B.Tech Computer Science student** passionate about **Data Scie
 
 ---
 
----
+### 🚀 About Me
+- 🎓 **Education:** B.Tech Computer Science & Engineering student at **Government Mahila Engineering College, Ajmer**.
+- 💼 **Current Role:** Data Science Intern at **Q Degree**.
+- 🎯 **Vision:** *“Turning raw datasets into meaningful financial and business insights, one pipeline at a time.”*
+
 
 ---
 
