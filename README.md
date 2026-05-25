@@ -13,7 +13,7 @@ An enthusiastic **B.Tech Computer Science student** passionate about **Data Scie
 
 ### 🏅 GSSoC '26 Open Source Milestones
 <p align="left">
-  <img src="https://gssoc.girlscript.org/assets/Badges/GSSoC26_Ambassador.png" width="95" title="GSSoC 2026 Ambassador" alt="Ambassador" style="margin-right: 10px;"/>
+  <img src="[https://gssoc.girlscript.org/assets/Badges/GSSoC26_Ambassador.png](https://gssoc.girlscript.org/badges/milestone/role_ambassador.png)" width="95" title="GSSoC 2026 Ambassador" alt="Ambassador" style="margin-right: 10px;"/>
   <img src="https://gssoc.girlscript.org/assets/Badges/GSSoC26_Code_Warrior.png" width="95" title="GSSoC 2026 Code Warrior" alt="Code Warrior" style="margin-right: 10px;"/>
   <img src="https://gssoc.girlscript.org/assets/Badges/GSSoC26_First_Steps.png" width="95" title="GSSoC 2026 First Steps" alt="First Steps" style="margin-right: 10px;"/>
 </p>
